@@ -1,0 +1,4 @@
+.sf-menu .menu-item-has-children > a:first-child::after, 
+.sf-menu .page-item-has-children > a:first-child::after {
+    display: block !important;
+}
